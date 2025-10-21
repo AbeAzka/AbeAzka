@@ -3,16 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeazka&label=Profile%20views&color=0e75b6&style=flat" alt="abeazka" /> </p>
 
-- 👨‍💻 All of my projects are available at [COMING SOON](COMING SOON)
+- 🌱 I’m currently learning **Programming languages ​​like Java, Python, Kotlin, and others**
+
+- 👨‍💻 All of my projects are available at [https://www.indodevstudio.my.id/projects](https://www.indodevstudio.my.id/projects)
 
 - 📝 I regularly write articles on [https://www.abeazka.my.id](https://www.abeazka.my.id)
 
+- 💬 Ask me about **HTML, CSS, C, C++, Python, Kotlin, Java, MySQL**
+
 - 📫 How to reach me **azka.jsiswanto@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/25673198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25673198" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@abeazkaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abeazkaofficial" height="30" width="40" /></a>
+<a href="https://discord.gg/YyvQgXWjGu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YyvQgXWjGu" height="30" width="40" /></a>
+<a href="/https://www.abeazka.my.id/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.abeazka.my.id/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
