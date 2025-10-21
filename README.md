@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/25673198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25673198" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@abeazkaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abeazkaofficial" height="30" width="40" /></a>
 <a href="https://discord.gg/YyvQgXWjGu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YyvQgXWjGu" height="30" width="40" /></a>
-<a href="https://www.abeazka.my.id/category/blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.abeazka.my.id/category/blog/feed/" height="30" width="40" /></a>
+<a href="https://www.abeazka.my.id/category/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.abeazka.my.id/category/blog/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
