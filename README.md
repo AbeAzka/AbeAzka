@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Menggunakan MongoDB](https://www.abeazka.my.id/blog/cara-menggunakan-mongodb/)
+- [Cara Membuat Bot Untuk Discord](https://www.abeazka.my.id/blog/cara-membuat-bot-untuk-discord/)
+- [Ini Alasan Mengapa Kamu Harus Belajar Coding [Updated]](https://www.abeazka.my.id/blog/ini-alasan-mengapa-kamu-harus-belajar-coding/)
+- [Cara Download Unity Untuk Development Game! [Updated]](https://www.abeazka.my.id/blog/cara-download-unity-untuk-development-game/)
+- [Ternyata Begini Cara Bikin Poster Disney Yang Lagi Trend [Updated]](https://www.abeazka.my.id/blog/cara-membuat-poster-disney-menggunakan-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
