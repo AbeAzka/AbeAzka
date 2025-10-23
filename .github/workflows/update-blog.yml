@@ -1,0 +1,18 @@
+name: Update latest WordPress blog posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Setiap jam
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch WordPress RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.abeazka.my.id/category/blog/feed/"
