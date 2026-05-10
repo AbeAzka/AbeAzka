@@ -1,42 +1,98 @@
-# Hi 👋, I'm Abqary Azka Siswanto
+<h1 align="center">Hi 👋, I'm Abqary Azka Siswanto</h1>
+<h3 align="center">Indie Game Developer and Backend Programmer from Indonesia 🇮🇩</h3>
 
-### A programmer from Indonesia
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbeAzka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbeAzka&label=Profile views&color=0e75b6&style=flat" alt="AbeAzka" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abe_azka" target="blank"><img src="https://img.shields.io/twitter/follow/abe_azka?logo=twitter&style=for-the-badge" alt="abe_azka" /></a> </p>
-
-- 🔭 I'm currently working on **my own indie game developer, Indodev Studio.**
-
-- 🌱 I'm currently learning **C++, C, C#, Java, HTML + CSS, Javascript, C, Python, Kotlin, and PHP.**
-
-- 👯 I'm looking to collaborate on **open source projects.**
-
-- 🤝 I'm looking for help with **design for mobile apps and website.**
-
-- 💬 Ask me about **C++, C, C# Python, Kotlin, Java, HTML + CSS, Javascript and PHP.**
-
-- 📫 How to reach me **azka.jsiswanto@gmail.com**
-
-- ⚡ Fun fact **I like coding.**
-
-- 👨‍💻 All of my projects are available at **[https://www.indodevstudio.my.id/portofolio](https://www.indodevstudio.my.id/portofolio)**
-
-- 📝 I regularly write articles on **[https://www.abeazka.my.id](https://www.abeazka.my.id)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AbeAzka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbeAzka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abqary-azka-siswanto-504279387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abqary-azka-siswanto-504279387" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abe-azka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abe-azka" height="30" width="40" /></a>
-<a href="https://instagram.com/ab.azkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab.azkaa" height="30" width="40" /></a>
-<a href="https://twitter.com/abe_azka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abe_azka" height="30" width="40" /></a>
-<a href="https://youtube.com/@AbeAzkaOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@AbeAzkaOfficial" height="30" width="40" /></a>
-<a href="https://discord.gg/YyvQgXWjGu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YyvQgXWjGu" height="30" width="40" /></a>
+  <a href="https://twitter.com/abe_azka">
+    <img src="https://img.shields.io/twitter/follow/abe_azka?logo=twitter&style=for-the-badge" alt="twitter follow" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbeAzka&" alt="AbeAzka" /></p>
+## 🚀 About Me
 
+- 🎮 Founder of Indie Game Studio called <b>Indodev Studio</b>
+- 💻 Focused on Backend Development, Game Development, and Automation
+- 🌱 Currently learning C++, C#, Java, Kotlin, PHP, and Modern Web Technologies
+- 🤝 Open for collaboration on Open Source and Creative Projects
+- 🎨 Interested in UI/UX Design for Mobile Apps and Websites
+- 💬 Ask me about C++, C#, JavaScript, Python, Kotlin, PHP, and Web Development
+- 📫 Reach me at: <b>azka.jsiswanto@gmail.com</b>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/AbeAzka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+  </a>
+
+  <a href="https://linkedin.com/in/abqary-azka-siswanto-504279387" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a>
+
+  <a href="https://instagram.com/ab.azkaa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+  </a>
+
+  <a href="https://twitter.com/abe_azka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
+  </a>
+
+  <a href="https://youtube.com/@AbeAzkaOfficial" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45" height="45" />
+  </a>
+
+  <a href="https://discord.gg/YyvQgXWjGu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" />
+  </a>
+
+  <a href="mailto:azka.jsiswanto@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
+  </a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bootstrap,c,cs,cpp,css,express,firebase,git,github,grafana,html,java,js,jenkins,kotlin,laravel,linux,mongodb,mysql,nodejs,php,postman,py,pytorch,spring,tensorflow,unity&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbeAzka&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeAzka&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbeAzka&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Portfolio & Articles
+
+- 👨‍💻 Portfolio:
+  https://www.indodevstudio.my.id/portofolio
+
+- 📝 Blog & Articles:
+  https://www.abeazka.my.id
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
