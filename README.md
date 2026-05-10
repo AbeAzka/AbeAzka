@@ -25,9 +25,7 @@
 
 ## 🌐 Connect With Me
 
-<h3 align="left">🌐 Connect With Me</h3>
-
-<p align="left"> <a href="https://github.com/AbeAzka" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>&nbsp; <a href="https://linkedin.com/in/abqary-azka-siswanto-504279387" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>&nbsp; <a href="https://instagram.com/ab.azkaa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>&nbsp; <a href="https://twitter.com/abe_azka" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>&nbsp; <a href="https://youtube.com/@AbeAzkaOfficial" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="45" /></a>&nbsp; <a href="https://discord.gg/YyvQgXWjGu" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="45" /></a>&nbsp; <a href="mailto:azka.jsiswanto@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a> </p>
+<p align="left"> <a href="https://github.com/AbeAzka" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>&nbsp; <a href="https://linkedin.com/in/abqary-azka-siswanto-504279387" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>&nbsp; <a href="https://instagram.com/ab.azkaa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>&nbsp; <a href="https://twitter.com/abe_azka" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>&nbsp; <a href="https://discord.gg/YyvQgXWjGu" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="45" /></a>&nbsp; <a href="mailto:azka.jsiswanto@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>&nbsp;  <a href="https://youtube.com/@AbeAzkaOfficial" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240107144800" width="40" /></a> </p>
 
 ---
 
