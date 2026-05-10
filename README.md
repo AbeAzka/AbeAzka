@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abqary Azka Siswanto</h1>
-<h3 align="center">Indie Game Developer and Backend Programmer from Indonesia 🇮🇩</h3>
+<h3 align="center">Indie Game Developer and (Hopefully) Fullstack Programmer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbeAzka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
