@@ -20,6 +20,7 @@
 - 🎨 Interested in UI/UX Design for Mobile Apps and Websites
 - 💬 Ask me about C++, C#, JavaScript, Python, Kotlin, PHP, and Web Development
 - 📫 Reach me at: <b>azka.jsiswanto@gmail.com</b>
+- 📄 My entire portfolio is here: <b>https://azka.indodevstudio.my.id/</b>
 
 ---
 
