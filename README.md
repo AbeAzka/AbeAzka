@@ -1,26 +1,28 @@
-# Hi 👋, I'm Abqary Azka
+# Hi 👋, I'm Abqary Azka Siswanto
 
 ### A programmer from Indonesia
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbeAzka&label=Profile views&color=0e75b6&style=flat" alt="AbeAzka" /> </p>
+
 <p align="left"> <a href="https://twitter.com/abe_azka" target="blank"><img src="https://img.shields.io/twitter/follow/abe_azka?logo=twitter&style=for-the-badge" alt="abe_azka" /></a> </p>
 
-- 🔭 I'm currently working on **my own indie game developer Indodev Studio**
+- 🔭 I'm currently working on **my own indie game developer, Indodev Studio.**
 
-- 🌱 I'm currently learning **C++, C, C#, Java, HTML + CSS, Javascript, C, Python, Kotlin, and PHP**
+- 🌱 I'm currently learning **C++, C, C#, Java, HTML + CSS, Javascript, C, Python, Kotlin, and PHP.**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 👯 I'm looking to collaborate on **open source projects.**
 
-- 🤝 I'm looking for help with **design for mobile apps and website **
+- 🤝 I'm looking for help with **design for mobile apps and website.**
 
-- 💬 Ask me about **C++, C, C# Python, Kotlin, Java, HTML + CSS, Javascript and PHP**
+- 💬 Ask me about **C++, C, C# Python, Kotlin, Java, HTML + CSS, Javascript and PHP.**
 
 - 📫 How to reach me **azka.jsiswanto@gmail.com**
 
-- ⚡ Fun fact **I like coding**
+- ⚡ Fun fact **I like coding.**
 
 - 👨‍💻 All of my projects are available at **[https://www.indodevstudio.my.id/portofolio](https://www.indodevstudio.my.id/portofolio)**
 
-- 📝 I regularly write articles on **[https://www.indodevstudio.my.id](https://www.indodevstudio.my.id)**
+- 📝 I regularly write articles on **[https://www.abeazka.my.id](https://www.abeazka.my.id)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
