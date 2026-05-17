@@ -64,7 +64,7 @@
 ## 🌐 Portfolio & Articles
 
 - 👨‍💻 Portfolio:
-  https://www.indodevstudio.my.id/portofolio
+  https://azka.indodevstudio.my.id
 
 - 📝 Blog & Articles:
   https://www.abeazka.my.id
