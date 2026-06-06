@@ -69,6 +69,9 @@
 - 📝 Blog & Articles:
   https://www.abeazka.my.id
 
+- 📄 Indodev Studio:
+  https://www.indodevstudio.my.id
+
 ---
 
 <p align="center">
